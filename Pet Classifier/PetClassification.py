@@ -1,5 +1,5 @@
 '''
-This program is a simply implementation of machine learning basics using Tensorflow.
+This program is a simple implementation of machine learning basics using Tensorflow.
 While the code in its entirety is not mine, i have manipulated and added some features
 to experiment with the model. I have read all the related functions documentation
 from tensorflow and have documented what they are doing to gain an understanding
